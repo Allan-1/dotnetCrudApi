@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "bV6t8HCxlfmn7hQRlXs86RXIj6YnAG2QP4Xr/WrC/ZbbdYK7JwzZzKCy+SwsUo1GRsSpWq8P17hnpTeBg2wTlQ==",
+  "success": true,
+  "projectFilePath": "/home/allan/Documents/DotnetCRUD/DotnetCRUD.csproj",
+  "expectedPackageFiles": [
+    "/home/allan/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/allan/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/allan/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/home/allan/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/home/allan/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/home/allan/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
